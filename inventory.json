@@ -1,0 +1,11 @@
+{
+  "items": {
+    "apple": { "name": "Apple", "price": 0.75, "quantity": 42 },
+
+    "bread": { "name": "Bread Loaf", "price": 2.5, "quantity": 18 },
+
+    "milk": { "name": "Milk (1 gallon)", "price": 3.29, "quantity": 10 },
+
+    "eggs": { "name": "Eggs (dozen)", "price": 2.89, "quantity": 14 }
+  }
+}

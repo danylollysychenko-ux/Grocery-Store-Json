@@ -1,0 +1,24 @@
+[
+    {
+        "buyer": "Daniel",
+        "items": [
+            {
+                "item_name": "Apple",
+                "quantity": 23,
+                "subtotal": 17.25
+            }
+        ],
+        "total_cost": 17.25
+    },
+    {
+        "buyer": "daniel",
+        "items": [
+            {
+                "item_name": "Apple",
+                "quantity": 23,
+                "subtotal": 17.25
+            }
+        ],
+        "total_cost": 17.25
+    }
+]
