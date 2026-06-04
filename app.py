@@ -166,6 +166,7 @@ def conditions(choice):
         exit()
 
 #Everything put together
+#O yeah
 def main():
     while True:
         choice = choices()
